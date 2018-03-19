@@ -1,0 +1,65 @@
+# Part1 WordLadder
+
+## Test Case 1-1
+
+Please enter filename containing source text:SmallDict.txt
+Enter start word (enter ':q' to quit):dog
+Enter destination word:cat
+Found ladder:dog->cog->cot->cat
+
+Enter start word (enter ':q' to quit):cat
+Enter destination word:dog
+Found ladder:cat->cot->cog->dog
+
+Enter start word (enter ':q' to quit):data
+Enter destination word:code
+Found ladder:data->date->cate->cade->code
+
+Enter start word (enter ':q' to quit)::q
+
+## Test Case 1-2
+
+Please enter filename containing source text:EnglishWords.txt
+Enter start word (enter ':q' to quit):poor
+Enter destination word:rich
+Found ladder:poor->boor->book->rook->rock->rick->rich
+
+Enter start word (enter ':q' to quit):coder
+Enter destination word:girls
+Found ladder:coder->corer->cores->tores->tires->tirls->girls
+
+Enter start word (enter ':q' to quit):programmer
+Enter destination word:girlfriend
+No Ladder found.
+
+Enter start word (enter ':q' to quit):cat
+Enter destination word:human
+No Ladder found.
+
+Enter start word (enter ':q' to quit)::q
+
+# Part2 RandomWriter
+
+## Test Case 2-1
+
+Please enter filename containing source text(enter ':q' to quit):pokerface.txt
+What order to analysis? (a number from 1 to 10):5
+Analyzing ... please wait.
+oker face
+(she's got to love nobody)
+P-p-p-poker face
+(she's got to love nobody)
+P-p-p-poker face
+(s
+Please enter filename containing source text(enter ':q' to quit):aLetter.txt
+What order to analysis? (a number from 1 to 10):10
+Analyzing ... please wait.
+ I really find my problem?
+Do I really find my problem?
+Do I really find my problem?
+Do I really fin
+Please enter filename containing source text(enter ':q' to quit):TomSawyer.txt
+What order to analysis? (a number from 1 to 10):10
+Analyzing ... please wait.
+ and then brought them back presently separated into two long-tails, white summer frock and embroide
+Please enter filename containing source text(enter ':q' to quit)::q
