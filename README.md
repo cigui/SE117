@@ -1,2 +1,2 @@
 ## SE117
-- SJTU SE117(2016) homework and labs
+- homework and labs for SE117(Programming and Data Structure, 2016) 
